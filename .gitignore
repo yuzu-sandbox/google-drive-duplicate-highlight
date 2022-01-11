@@ -1,3 +1,7 @@
+# yarn berry
+.yarn/*
+!.yarn/releases
+
 # Logs
 logs
 *.log

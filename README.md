@@ -1,2 +1,3 @@
 # google-drive-duplicate-highlight
-Highlight files with the same name in Google drive
+
+A bookmarklet highlight files with the same name in Google drive
